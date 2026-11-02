@@ -1,0 +1,6 @@
+{
+  "name": "모빌리티 커리어 코치",
+  "description": "모빌리티(완성차, 부품사, 배터리, SDV, 자율주행) 취업준비생을 위한 채용공고 AI 분석, 역량 갭 진단, 4주 보완 로드맵 및 산업 이슈 기반 모의 면접 코칭 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
